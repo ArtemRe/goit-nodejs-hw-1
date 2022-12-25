@@ -1,5 +1,5 @@
 const argv = require('yargs').argv;
-const yargs = require('yargs');
+
 const {
   listContacts,
   getContactById,
